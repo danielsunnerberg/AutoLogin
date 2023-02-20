@@ -1,5 +1,5 @@
 {
-    "name": "jmikola/auto-login",
+    "name": "jmikola/auto-login-fork",
     "type": "library",
     "description": "Facilitates automatic login via a single token for Symfony's Security component.",
     "keywords": ["authentication", "auto-login", "login", "security"],
